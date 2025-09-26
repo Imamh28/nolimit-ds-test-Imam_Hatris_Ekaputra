@@ -13,10 +13,10 @@ App: Implemented with Streamlit, providing an interactive interface for real-tim
 
 ## 📂 Dataset
 
-Source: [Sp1786/multiclass-sentiment-analysis-dataset](https://huggingface.co/datasets/Sp1786/multiclass-sentiment-analysis-dataset).
-Subset Used: Sp1786-5000-data.csv containing ~5,000 samples.
-Labels: positive, negative, neutral.
-License: Refer to the Hugging Face dataset page for usage rights.
+- Source: [Sp1786/multiclass-sentiment-analysis-dataset](https://huggingface.co/datasets/Sp1786/multiclass-sentiment-analysis-dataset).
+- Subset Used: Sp1786-5000-data.csv containing ~5,000 samples.
+- Labels: positive, negative, neutral.
+- License: Refer to the Hugging Face dataset page for usage rights.
 
 ## 🤖 Model
 Model Name: [cardiffnlp/twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest)
