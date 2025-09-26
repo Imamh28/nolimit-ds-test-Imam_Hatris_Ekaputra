@@ -8,7 +8,7 @@ from collections import Counter
 
 
 st.set_page_config(page_title="Sentiment Analysis (RoBERTa k-NN)")
-st.title("entiment Analysis (RoBERTa k-NN)")
+st.title("Sentiment Analysis (RoBERTa k-NN)")
 st.write("This app uses RoBERTa embeddings and k-NN search to classify sentiment.")
 
 
